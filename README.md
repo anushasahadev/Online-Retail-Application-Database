@@ -1,4 +1,5 @@
 🛒 Online Retail Application Database
+
 📌 Overview
 This SQL project models the core backend of an online retail platform. It simulates how customers, employees, and products interact within a transactional ecosystem. The schema is designed to demonstrate real-world business logic for e-commerce operations, covering user management, order processing, product inventory, payment tracking, and delivery workflows.
 
